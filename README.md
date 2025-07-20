@@ -53,6 +53,9 @@ Estudio sobre los **factores que influyen en el paro en España**, más allá de
 - 💍 **Estado civil:** Aumento del paro en solteros respecto a casados, influido por la disminución de matrimonios.
 - 🏭 **Sectores económicos:** Algunos sectores muestran especial impacto, principalmente el sector servicios.
 
+- Enlace a google sheet del proyecto de google sheet análisis del paro en España : https://docs.google.com/spreadsheets/d/18sEcNmsh5eYGXexm05pI8Xs8qouU_zpDh9E4Knxn_iI/edit?usp=sharing
+  
+
 ---
 
 ## ✅ Próximos pasos sugeridos
